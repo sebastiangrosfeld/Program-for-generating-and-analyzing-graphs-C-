@@ -6,4 +6,4 @@ Project has documents:
 * implementation specyfication,
 * final report.
 
-All was written in LaTeX and You can find their in projCJIMP2/documentations .
+All was written in LaTeX and You can find their in projCJIMP2/documentation .
